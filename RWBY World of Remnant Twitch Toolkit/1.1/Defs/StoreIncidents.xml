@@ -6,7 +6,7 @@
 		<label>unlock Aura</label>
 		<abbreviation>unlockaura</abbreviation>
 		<cost>1400</cost>
-		<eventCap>1</eventCap>
+		<eventCap>2</eventCap>
 		<incidentHelper>RWBYTwitchToolkit.UnlockAura</incidentHelper>
 		<karmaType>Good</karmaType>
 	</TwitchToolkit.Incidents.StoreIncidentSimple>
@@ -35,8 +35,8 @@
 		<defName>RWBYTwitchGrimmWandersIn</defName>
 		<label>Grimm wanders in</label>
 		<abbreviation>grimmwandersin</abbreviation>
-		<cost>900</cost>
-		<eventCap>2</eventCap>
+		<cost>1100</cost>
+		<eventCap>1</eventCap>
 		<incidentHelper>RWBYTwitchToolkit.UnlockAura</incidentHelper>
 		<karmaType>Bad</karmaType>
 	</TwitchToolkit.Incidents.StoreIncidentSimple>
